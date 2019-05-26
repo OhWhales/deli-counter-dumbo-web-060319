@@ -11,4 +11,4 @@ def line (line)
   num = 1 
   counter = 0 
   while (counter < line.size)
-    tempSentence = "#{num. "
+    tempSentence = "#{num}. ${line[counter] "
