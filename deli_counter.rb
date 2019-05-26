@@ -7,7 +7,8 @@ def line (line)
     puts "The line is currently empty"
   end 
   
-  totalSentence=""
+  totalSentence="The line is currently: "
   num = 1 
   counter = 0 
   while (counter < line.size)
+    tempSentence = "#{num. "
