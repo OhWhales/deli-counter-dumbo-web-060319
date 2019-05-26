@@ -8,3 +8,4 @@ def line (line)
   end 
   
   num = 1 
+  counter = 0
