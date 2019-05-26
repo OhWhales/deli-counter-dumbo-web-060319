@@ -32,5 +32,5 @@ end
 def take_a_number(line, name)
   line.push(name)
   z=line.size
-  puts
+  puts 
     
