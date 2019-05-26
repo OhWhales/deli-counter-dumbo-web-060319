@@ -38,5 +38,6 @@ end
 def now_serving(line)
   if line.size == 0 
     puts "The line is empty!"
-  end 
+  else 
+    z=line.first 
     
