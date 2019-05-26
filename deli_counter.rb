@@ -23,6 +23,7 @@ def line (line)
       totalSentence = totalSentence + tempSentence
       counter = counter + 1 
       num = num + 1 
+    end 
   end 
   puts totalSentence
 end 
