@@ -14,6 +14,7 @@ def line (line)
     if (counter == line.size - 1 )
       x=line[counter]
       tempSentence = "#{num}. #{x}"
+      totalSentence = totalSentence + tempSentence
     x=line[counter]
     tempSentence = "#{num}. #{x} "
     totalSentence = totalSentence + tempSentence
