@@ -40,7 +40,7 @@ def now_serving(line)
     puts "There is nobody waiting to be served!"
   else 
     z=line.shift
-    puts "Currently serving #{z}"
+    puts "Currently serving #{z}."
   end 
 end 
     
