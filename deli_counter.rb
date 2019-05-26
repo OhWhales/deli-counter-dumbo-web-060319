@@ -34,4 +34,9 @@ def take_a_number(line, name)
   z=line.size
   puts "Welcome, #{name}. You are number #{z} in line."
 end 
+
+def now_serving(line)
+  if line.size == 0 
+    puts "The line is empty!"
+  end 
     
